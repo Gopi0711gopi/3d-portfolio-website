@@ -1,0 +1,14 @@
+node_modules/
+.next/
+dist/
+build/
+venv/
+.env
+*.env
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+*.zip
+*.tar.gz
+hexstrike_env/
